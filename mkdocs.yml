@@ -1,0 +1,56 @@
+site_name: 77 Metrics Help
+site_description: Help documentation for 77 Metrics — GPS dashboard for iPhone and CarPlay.
+docs_dir: docs
+
+theme:
+  name: material
+  palette:
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - attr_list
+  - md_in_html
+  - tables
+
+plugins:
+  - search
+
+nav:
+  - Home: index.md
+  - Getting Started:
+    - Overview: getting-started/index.md
+    - Your First Drive: getting-started/first-drive.md
+    - Dashboard Customization: getting-started/dashboard-customization.md
+  - Features:
+    - Overview: features/index.md
+    - Dashboard: features/dashboard.md
+    - Recording Drives: features/drives.md
+    - Trips & History: features/trips.md
+    - Widgets: features/widgets.md
+    - CarPlay: features/carplay.md
+  - Metrics:
+    - All Metrics: metrics/index.md
+    - Speed: metrics/speed.md
+    - Distance: metrics/distance.md
+    - Elevation: metrics/elevation.md
+    - Time: metrics/time.md
+    - Navigation: metrics/navigation.md
+    - G-Force: metrics/g-force.md
+    - GPS Info: metrics/gps.md
+  - FAQ: faq.md
+  - Troubleshooting: troubleshooting.md
+  - About:
+    - About: about/index.md
+    - Privacy: about/privacy.md
+    - Support: about/support.md
+    - Release Notes: about/release-notes.md
