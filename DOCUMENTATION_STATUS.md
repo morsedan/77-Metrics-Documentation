@@ -2,7 +2,7 @@
 
 Tracks the state of each documentation page. Update this file as work progresses.
 
-**Last updated:** 2026-10-24
+**Last updated:** 2026-10-24 (Getting Started guides drafted)
 **Site framework:** MkDocs Material 9.x (configured, builds locally)
 
 ## Status key
@@ -22,9 +22,9 @@ Tracks the state of each documentation page. Update this file as work progresses
 
 | Page | Status | Notes |
 |------|--------|-------|
-| Overview | Stub | |
-| Your First Drive | Stub | |
-| Dashboard Customization | Stub | Needs screenshots of edit mode |
+| Overview | Draft | |
+| Your First Drive | Draft | Screenshots not yet captured |
+| Dashboard Customization | Draft | Screenshots not yet captured |
 
 ### Features
 

@@ -1,20 +1,45 @@
-# Getting Started
+# Getting started with 77 Metrics
 
-Everything you need to begin using 77 Metrics.
+77 Metrics is a GPS dashboard for iPhone. It shows live speed, elevation, distance, G-force, and navigation metrics on a customizable grid while you drive, then saves a full record of each drive for later review.
 
-## Steps
-
-1. **[Grant location permission](first-drive.md#grant-location-permission)** — 77 Metrics requires location access to track your drive.
-2. **[Start your first drive](first-drive.md)** — Tap Start Drive, drive, then stop and save.
-3. **[Customize your dashboard](dashboard-customization.md)** — Choose which metrics appear and how large each tile is.
-
-## System requirements
+## What you need
 
 - iPhone running iOS 17 or later
-- Location Services enabled
+- Location Services enabled in iOS Settings
+- A clear view of the sky improves GPS accuracy
 
-## What 77 Metrics does
+## The three main screens
 
-77 Metrics records GPS data while you drive and shows live metrics on a fully customizable dashboard. When you stop, it saves a drive record with route, speed profile, elevation history, and G-force data for later review.
+### Idle screen
 
-The app does not require an account, does not transmit your location data to any server, and works entirely offline.
+The idle screen is the home base of 77 Metrics. It appears when you first open the app and after every drive is saved or discarded.
+
+The idle screen shows:
+
+- **Start Drive** — begins a new drive recording
+- **Resume Drive** — appears when your most recently saved drive is eligible to continue; tapping it appends a new segment to that drive
+- **Trip History** — opens your list of saved drives
+- **Edit Dashboard** — opens dashboard customization
+- **Settings** — opens unit, precision, notification, and display-surface settings
+- A location permission warning if 77 Metrics does not have the access it needs
+
+### Active drive screen
+
+Once you start a drive, the full-screen dashboard appears. Tiles update approximately once per second as GPS data arrives.
+
+At the bottom of the screen (or on the right in landscape):
+
+- **Pause / Resume** — suspends or restarts data accumulation
+- **Stop** — ends the drive and opens the Drive Complete screen
+- **Edit Dashboard** and **Settings** — available during a drive without stopping
+
+A status area shows a recording indicator, GPS signal quality, and a warning if the app cannot save a checkpoint.
+
+### Trip History
+
+Trip History lists every saved drive. Drives are grouped by month. Tap any drive to open its summary, which includes a route map, speed and elevation profiles, G-force data, and export options.
+
+## Next steps
+
+1. [Your first drive](first-drive.md) — grant permissions, start recording, and save your results
+2. [Dashboard customization](dashboard-customization.md) — choose your metrics, resize tiles, and organize pages
