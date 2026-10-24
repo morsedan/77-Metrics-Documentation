@@ -35,7 +35,7 @@ Tracks the state of each documentation page. Update this file as work progresses
 | Recording Drives | Stub | |
 | Trips & History | Stub | |
 | Widgets | Stub | Widget screenshot needed |
-| CarPlay | Stub | |
+| CarPlay | Stub | Display-only list (no drive controls); up to 8 configurable metrics |
 
 ### Metrics
 
@@ -77,12 +77,9 @@ Tracks the state of each documentation page. Update this file as work progresses
 
 ---
 
-## Internal (`internal/`)
+## App audit
 
-| Item | Status | Notes |
-|------|--------|-------|
-| App audit | Not started | Precedes all content work |
-| Research notes | Not started | |
+App feature audit completed 2026-10-24. Covers all screens, controls, metric tile behaviors, drive lifecycle, trip history, widgets, Live Activities, CarPlay, and export. Findings inform the notes in the tables above.
 
 ---
 

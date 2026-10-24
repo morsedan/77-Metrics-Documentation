@@ -1,24 +1,26 @@
 # CarPlay
 
-77 Metrics supports Apple CarPlay, displaying your dashboard and drive controls on your car's built-in screen.
+77 Metrics supports Apple CarPlay, showing your live metrics on your car's built-in display.
 
 ## Requirements
 
 - A CarPlay-compatible vehicle or aftermarket head unit
 - iPhone connected via USB or wireless CarPlay
 
-## CarPlay dashboard
+## What CarPlay shows
 
-The CarPlay screen shows a simplified version of the 77 Metrics dashboard, optimized for the larger display and for glanceability while driving. It reflects the same live metric data as the iPhone app.
+The CarPlay screen displays a scrollable list of your configured metrics, each showing its name and current value. Up to 8 metrics can be shown simultaneously. While a drive is not active, values show as "—".
 
-## Drive controls
+Default metrics on first launch: Speed, Distance, Altitude, Elapsed Time.
 
-You can start, pause, resume, and stop a drive from the CarPlay screen without touching your iPhone. Drive state is synchronized between CarPlay and the iPhone app.
+The display updates every second, reflecting the same live data as the iPhone app.
 
-## Layout
+## Configuring CarPlay metrics
 
-The CarPlay layout is separate from the iPhone dashboard layout. It is designed for the landscape CarPlay screen and is not customizable in the same way as the iPhone dashboard.
+Choose which metrics appear on CarPlay in **Settings → CarPlay & Widgets → CarPlay**. You can add up to 8 metrics, reorder them, and restore the defaults at any time.
 
 ## Connecting
 
-Connect your iPhone to your vehicle using a Lightning or USB-C cable (or wirelessly if your vehicle supports wireless CarPlay). 77 Metrics will appear in the CarPlay app launcher automatically once it has been opened on the iPhone at least once.
+Connect your iPhone to your vehicle using a Lightning or USB-C cable (or wirelessly if your vehicle supports wireless CarPlay). 77 Metrics appears in the CarPlay app launcher automatically once it has been opened on the iPhone at least once.
+
+Drive recording is controlled from the iPhone app. When CarPlay disconnects, the drive session continues running on the iPhone.
