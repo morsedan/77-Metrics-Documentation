@@ -70,6 +70,8 @@ Individual category pages:
 
 The FAQ and troubleshooting guides above cover the most common questions. A support contact will be listed here before the site is published publicly.
 
+If you find an error in this documentation, open an issue in this repository.
+
 ---
 
 ## Repository layout
