@@ -1,18 +1,16 @@
-# Support
+# Help and support
 
-!!! note
-    Support contact information will be added here before publication.
+## Self-service resources
 
-## Getting help
+Most questions about 77 Metrics are answered in the documentation:
 
-Before contacting support, check:
-
-1. [FAQ](../faq.md) — answers to common questions
-2. [Troubleshooting](../troubleshooting.md) — solutions to known issues
+1. [FAQ](../faq.md) — common questions about drives, elevation, units, background operation, and the dashboard
+2. [Troubleshooting](../troubleshooting.md) — step-by-step guidance for GPS issues, altitude drift, missing tiles, widget refresh, and interrupted recording recovery
+3. [Getting started](../getting-started/index.md) — permissions, first drive, and dashboard setup
 
 ## Contact
 
-Support contact details will be listed here.
+A support contact will be listed here before the app is published.
 
 ## Feedback
 

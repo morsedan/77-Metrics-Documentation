@@ -2,7 +2,7 @@
 
 Tracks the state of each documentation page. Update this file as work progresses.
 
-**Last updated:** 2026-10-24 (Getting Started guides drafted)
+**Last updated:** 2026-10-24 (Features, metrics, FAQ, troubleshooting, and about pages drafted)
 **Site framework:** MkDocs Material 9.x (configured, builds locally)
 
 ## Status key
@@ -22,7 +22,7 @@ Tracks the state of each documentation page. Update this file as work progresses
 
 | Page | Status | Notes |
 |------|--------|-------|
-| Overview | Draft | |
+| Overview | Draft | Screenshots not yet captured |
 | Your First Drive | Draft | Screenshots not yet captured |
 | Dashboard Customization | Draft | Screenshots not yet captured |
 
@@ -30,41 +30,41 @@ Tracks the state of each documentation page. Update this file as work progresses
 
 | Page | Status | Notes |
 |------|--------|-------|
-| Overview | Stub | |
-| Dashboard | Stub | Tile size diagram needed |
-| Recording Drives | Stub | |
-| Trips & History | Stub | |
-| Widgets | Stub | Widget screenshot needed |
-| CarPlay | Stub | Display-only list (no drive controls); up to 8 configurable metrics |
+| Overview | Draft | |
+| Dashboard | Draft | Tile size diagram would help |
+| Recording Drives | Draft | |
+| Trips & History | Draft | Export format documented (CSV + GPX 1.1 + Garmin TrackPointExtension v2) |
+| Widgets | Draft | 3 widget sizes + Live Activity documented; widget screenshots would help |
+| CarPlay | Draft | Display-only; up to 8 configurable metrics |
 
 ### Metrics
 
 | Page | Status | Notes |
 |------|--------|-------|
-| All Metrics | Stub | Complete metric table present |
-| Speed | Stub | |
-| Distance | Stub | |
-| Elevation | Stub | Barometric fusion note needed |
-| Time | Stub | |
-| Navigation | Stub | Compass rose image needed |
-| G-Force | Stub | Heat map description needed |
-| GPS Info | Stub | |
+| All Metrics | Draft | Complete metric table with 21 metrics |
+| Speed | Draft | |
+| Distance | Draft | |
+| Elevation | Draft | Barometric fusion documented |
+| Time | Draft | |
+| Navigation | Draft | |
+| G-Force | Draft | Heat map documented |
+| GPS Info | Draft | |
 
 ### Reference
 
 | Page | Status | Notes |
 |------|--------|-------|
-| FAQ | Stub | Questions gathered; answers needed |
-| Troubleshooting | Stub | |
+| FAQ | Draft | Covers drives, elevation, units, background operation, dashboard |
+| Troubleshooting | Draft | Covers GPS, altitude, drives, dashboard, widgets, performance |
 
 ### About
 
 | Page | Status | Notes |
 |------|--------|-------|
-| About 77 Metrics | Stub | |
-| Privacy | Stub | Legal review required before publishing |
-| Support | Stub | Support contact needed |
-| Release Notes | Stub | Populate from git history |
+| About 77 Metrics | Draft | |
+| Privacy | Draft | Legal review required before publishing |
+| Support | Stub | Support contact needed before publishing |
+| Release Notes | Draft | v1.2 feature list present; v1.1 and earlier still placeholder |
 
 ---
 
