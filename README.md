@@ -7,7 +7,9 @@
 - 21 configurable metrics across up to 12 tiles per page
 - Barometric and GPS altitude fusion for accurate elevation data
 
-![77 Metrics active drive dashboard showing Speed, Altitude, Distance, and Elapsed Time tiles in dark mode](assets/screenshots/active-dashboard.png)
+![77 Metrics active drive dashboard: a large Speed tile occupying most of the screen with Distance and Elapsed Time tiles below, in dark mode](assets/screenshots/active-dashboard.png)
+
+![77 Metrics landscape dashboard showing six metrics — Speed, Altitude, Distance, Elapsed Time, Grade, and Heading — filling the full-width grid in dark mode](assets/screenshots/dashboard-landscape.png)
 
 ---
 

@@ -117,6 +117,10 @@ Tiles have seven sizes. Each size spans a different number of grid cells:
 
 Size 1 fills one cell. Size 7 fills the entire portrait grid.
 
+![Two large tiles on the dashboard: Speed at Size 4 (full-width, 3 rows tall) above Altitude at Size 4, filling the entire screen](../../assets/screenshots/dashboard-large-tiles.png)
+
+![Six tiles at Size 2 filling the portrait grid: Speed, Altitude, Distance, Elapsed Time, Grade, and Heading](../../assets/screenshots/dashboard-dense.png)
+
 Each tile on the canvas shows a **shrink button (−)** and an **expand button (+)**. Tap them to step the tile one size smaller or larger. Buttons are dimmed when the tile is already at its minimum or maximum size.
 
 ### Reflow on resize
