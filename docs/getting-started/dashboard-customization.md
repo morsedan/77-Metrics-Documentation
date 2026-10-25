@@ -15,7 +15,7 @@ Customization uses two separate editing tools:
 
 Tap **Edit Dashboard** to open the Tile List.
 
-![Tile List showing page tabs, Enhanced Information toggle, six metric rows with pencil and remove buttons, an Add Metric button, and an Edit Layout link](../../assets/screenshots/edit-dashboard.png) It shows your current dashboard pages and their tiles.
+![Tile List showing page tabs, Enhanced Information toggle, six metric rows with pencil and remove buttons, an Add Metric button, and an Edit Layout link](../../assets/screenshots/edit-dashboard.png)
 
 ### Changing what a tile shows
 
