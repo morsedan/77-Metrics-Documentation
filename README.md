@@ -71,18 +71,3 @@ Individual category pages:
 The FAQ and troubleshooting guides above cover the most common questions. A support contact will be listed here before the site is published publicly.
 
 If you find an error in this documentation, open an issue in this repository.
-
----
-
-## Repository layout
-
-This repository contains the source for the 77 Metrics help site, App Store marketing copy, and documentation tooling.
-
-| Path | Contents |
-|------|----------|
-| `docs/` | User-facing help articles |
-| `marketing/` | App Store listing copy and website content |
-| `screenshots/` | Screenshot assets for docs and marketing |
-| `mkdocs.yml` | MkDocs Material configuration |
-| `DOCUMENTATION_STATUS.md` | Per-page progress tracker |
-| `CONTRIBUTING.md` | Style guide and writing workflow |
