@@ -53,11 +53,14 @@ When **on**, tiles at Size 2 and larger show additional visualizations alongside
 | Max Speed | Progress bar showing current speed vs. max |
 | Elapsed Time | Animated clock ring that resets each hour |
 | Moving Time | Stopped-time breakdown; movement timeline chart at Size 3+ |
-| Vertical Speed | Zero-centered gauge; history chart at Size 3+ |
-| Altitude | Elevation range gauge showing min/max observed |
+| Vertical Speed | Zero-centered climb/descent gauge; history chart at Size 3+ |
+| Altitude | Vertical range gauge showing min/max altitude observed |
 | Grade | Pitch gauge; attitude ball (pitch + roll) at Size 3+ |
+| Heading | Rotating compass rose with cardinal direction labels |
 | Direction | Live map with vehicle heading arrow; travel path at Size 3+ |
-| G-Force | G-force heat map alongside the vector meter |
+| G-Force | Cumulative 2D heat map of G-force history alongside the vector meter |
+
+![Active drive dashboard showing Altitude with an elevation range gauge, Heading with a compass rose, and Vertical Speed with a zero-centered gauge, in dark mode](../../assets/screenshots/enhanced-alt-heading-vs.png)
 
 Enhanced Information is **per-page** — you can enable it on one page and leave it off on another.
 

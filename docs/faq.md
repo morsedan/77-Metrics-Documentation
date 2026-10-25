@@ -22,7 +22,7 @@ Yes. Each dashboard page has its own independent set of tiles. You can create mu
 A dash indicates the metric is not yet available. This is normal for the first few seconds of a drive while GPS acquires a fix, or for metrics that require accumulated data (such as Max Speed or Elevation Gain).
 
 **What is Enhanced Information mode?**
-When enabled for a page, tiles at Size 2 and larger display additional context alongside the primary value — for example, Average Speed tiles show how your current speed compares to the average.
+When enabled for a page, tiles at Size 2 and larger display additional visualizations alongside the primary value. Examples: Speed shows a speedometer gauge, Heading shows a compass rose, Direction shows a live map, Altitude shows an elevation range gauge, and G-Force shows a cumulative heat map. The toggle is per-page — enable it on pages where the extra detail is useful and leave it off on others. See [Dashboard customization](getting-started/dashboard-customization.md#enhanced-information) for the full list.
 
 ## Drives
 

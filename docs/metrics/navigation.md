@@ -12,6 +12,8 @@ Current direction of travel expressed as a compass bearing in degrees (0–360).
 
 Heading is derived from the GPS course — the direction of motion over the ground — not from the iPhone's magnetic compass. It is therefore accurate for moving vehicles but may be unavailable or unstable at very low speeds.
 
+With Enhanced Information enabled at Size 2 or larger, the tile adds a rotating compass rose with cardinal direction labels (N in red, E/S/W in white) alongside the bearing value.
+
 Shows a dash (—) when GPS has not yet provided a valid course reading.
 
 ---

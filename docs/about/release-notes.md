@@ -5,7 +5,7 @@
 *In progress*
 
 - Seven tile resize levels with automatic reflow and displacement
-- Enhanced Information mode per dashboard page — adds visualizations to Speed, Average Speed, Moving Avg, Max Speed, Elapsed Time, Moving Time, Vertical Speed, Altitude, Grade, Direction, and G-Force tiles at Size 2 and larger
+- Enhanced Information mode per dashboard page — adds visualizations to Speed, Average Speed, Moving Avg, Max Speed, Elapsed Time, Moving Time, Vertical Speed, Altitude, Grade, Heading, Direction, and G-Force tiles at Size 2 and larger
 - Pause and resume an active drive
 - Continue a previously saved drive as a new segment — combined statistics across all segments
 - Interrupted drive recovery on launch — checkpoints every 30 seconds survive app termination

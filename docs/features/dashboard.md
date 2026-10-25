@@ -21,13 +21,18 @@ All tiles update in real time as GPS data arrives (approximately once per second
 
 ## Enhanced information mode
 
-Each page has an optional Enhanced Information toggle. When enabled, tiles at Size 2 and larger show additional context:
+Each page has an optional Enhanced Information toggle. When enabled, tiles at Size 2 and larger show visualizations alongside the live value. Examples:
 
-- Speed comparison metrics (Average Speed, Moving Avg) show a bar and pace text alongside the value
-- Max Speed shows a progress bar and gap to the current speed
-- The Direction tile at larger sizes shows a travel-path map overlay
+- Speed shows a speedometer gauge; Size 3+ adds a speed history chart
+- Elapsed Time shows an animated clock ring that resets each hour
+- Grade shows a pitch gauge; Size 3+ adds an attitude ball
+- Heading shows a rotating compass rose with cardinal direction labels
+- Direction shows a live map with a vehicle heading arrow; Size 3+ adds the travel path
+- Altitude shows a vertical range gauge marking min and max elevation observed
+- Vertical Speed shows a zero-centered climb/descent gauge; Size 3+ adds a history chart
+- G-Force shows a cumulative 2D heat map of G-force history alongside the radial vector meter
 
-Enhanced information is a per-page setting — you can enable it on some pages and leave it off on others.
+Enhanced information is a per-page setting — you can enable it on some pages and leave it off on others. See [Dashboard customization](../getting-started/dashboard-customization.md#enhanced-information) for the full per-metric table.
 
 ## Customization
 

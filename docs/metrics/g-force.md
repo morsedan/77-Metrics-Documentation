@@ -6,7 +6,7 @@ Two metrics measure the acceleration forces experienced during the drive.
 
 77 Metrics uses the iPhone's accelerometer, sampled at approximately 50 Hz. The app tracks longitudinal G-force (acceleration and braking along the direction of travel) and lateral G-force (cornering forces).
 
-The heat map records the accumulation of G-force events over the drive, with higher-intensity cells indicating repeated or high-magnitude forces in that direction.
+With Enhanced Information enabled at Size 2 or larger, the G-Force tile adds a cumulative 2D heat map alongside the radial vector meter. The heat map records all G-force events during the drive on a grid: the color of each cell reflects how often and how strongly forces occurred in that direction, using a dull-red-to-white ramp (low to high intensity). A dot marks the current position on the map.
 
 ---
 
