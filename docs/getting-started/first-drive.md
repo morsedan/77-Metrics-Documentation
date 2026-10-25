@@ -62,7 +62,7 @@ A slim status bar runs along the bottom of the screen in portrait, or on the rig
 | GPS icon (slashed) | Weak signal or no fix |
 | Yellow triangle | Drive checkpoint could not be saved to disk |
 
-![Active drive screen showing a large Speed tile at the top, with Distance and Elapsed Time tiles below, and recording controls at the bottom](../../assets/screenshots/active-dashboard.png)
+![Active drive dashboard showing Speed, Elapsed Time, and Grade tiles with Enhanced Information visualizations, and recording controls at the bottom](../../assets/screenshots/active-dashboard.png)
 
 ### Controls
 
