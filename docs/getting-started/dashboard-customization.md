@@ -104,6 +104,8 @@ The dashboard grid adapts to the iPhone's orientation:
 
 The Layout Canvas reflects the current orientation. Rotate your iPhone to edit the landscape layout separately.
 
+![Six tiles in landscape orientation — two columns of three rows — with recording controls on the right edge](../../assets/screenshots/dashboard-landscape.png)
+
 ### Tile sizes
 
 Tiles have seven sizes. Each size spans a different number of grid cells:
