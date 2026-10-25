@@ -37,6 +37,8 @@ The screen switches to the active drive view. The dashboard tiles begin updating
 
 If the idle screen shows a **Resume Drive** button alongside **Start Drive**, tapping **Resume Drive** continues your most recently saved drive as a new segment instead of starting a fresh one. See [Drives](../features/drives.md) for details.
 
+![77 Metrics idle screen showing Start Drive, Resume Drive, Trip History, Edit Dashboard, and Settings buttons](../../assets/screenshots/idle-dashboard.png)
+
 ---
 
 ## Step 3 — Understand the active drive screen
@@ -59,6 +61,8 @@ A slim status bar runs along the bottom of the screen in portrait, or on the rig
 | GPS icon (half-filled) | Moderate signal |
 | GPS icon (slashed) | Weak signal or no fix |
 | Yellow triangle | Drive checkpoint could not be saved to disk |
+
+![Active drive screen showing four metric tiles — Speed, Altitude, Distance, and Elapsed Time — with recording controls at the bottom](../../assets/screenshots/active-dashboard.png)
 
 ### Controls
 
@@ -105,6 +109,8 @@ The Drive Complete screen has several collapsible sections:
 | GPS | Best and worst horizontal accuracy during the drive |
 
 Tap any section header to expand or collapse it. Drag on any of the three profile charts to scrub through the drive — all three charts move together.
+
+![Drive Complete screen showing the drive name field, route map section, and stats including distance, duration, moving time, and stopped time](../../assets/screenshots/drive-complete.png)
 
 ### Name, save, or discard
 

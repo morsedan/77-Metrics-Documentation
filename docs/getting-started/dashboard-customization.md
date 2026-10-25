@@ -13,7 +13,9 @@ Customization uses two separate editing tools:
 
 ## The Tile List
 
-Tap **Edit Dashboard** to open the Tile List. It shows your current dashboard pages and their tiles.
+Tap **Edit Dashboard** to open the Tile List.
+
+![Tile List showing page tabs, Enhanced Information toggle, six metric rows with pencil and remove buttons, an Add Metric button, and an Edit Layout link](../../assets/screenshots/edit-dashboard.png) It shows your current dashboard pages and their tiles.
 
 ### Changing what a tile shows
 
@@ -85,6 +87,8 @@ Tap the **gear icon** in the Tile List toolbar to open Settings. Two global opti
 ## The Layout Canvas
 
 From inside the Tile List, tap **Edit Layout** to open the Layout Canvas. This is where you resize tiles and drag them into position.
+
+![Layout Canvas showing six tiles in a 2-column grid, each with drag handles and expand/shrink resize buttons](../../assets/screenshots/edit-layout.png)
 
 ### The grid
 

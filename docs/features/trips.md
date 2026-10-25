@@ -8,6 +8,8 @@ The history list shows all saved drives in reverse chronological order, grouped 
 
 Tap a drive to open its full summary.
 
+![Trip History empty state showing "No Trips Yet — Completed drives will appear here"](../../assets/screenshots/trip-history-empty.png)
+
 ## Drive summary
 
 The drive summary screen presents all recorded data for a drive in collapsible sections:
@@ -23,6 +25,8 @@ The drive summary screen presents all recorded data for a drive in collapsible s
 | GPS | Best and worst horizontal accuracy recorded during the drive |
 
 Scrubbing on any of the three profile charts (speed, elevation, vertical speed) moves all three in sync, so you can see how all three measurements relate at any moment.
+
+![Drive Complete screen showing the drive name field, Route section, and an Overview section with Distance, Duration, Moving Time, and Stopped stats](../../assets/screenshots/drive-complete.png)
 
 ## Naming drives
 
